@@ -1,3 +1,3 @@
-# Database RDS Multi-AZ, backups automaticos y snapshots
+# Fundamentos RDS Multi-AZ, backups automaticos y snapshots
 
-La práctica esta [aquí](https://github.com/alvarolinarescabre/database-fundamentos-rds/wiki)
+La práctica esta [aquí](https://github.com/alvarolinarescabre/fundamentos-rds/wiki)
